@@ -52,6 +52,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+-
 ## 📊 Minhas estatísticas no GitHub
 
 ![Estatísticas do GitHub de João Pedro](https://github-readme-stats.vercel.app/api?username=JpgomesG&show_icons=true&theme=radical&locale=pt-br)
