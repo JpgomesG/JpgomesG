@@ -55,7 +55,7 @@
 -
 ## 📊 Minhas estatísticas no GitHub
 
-![Estatísticas do GitHub de João Pedro](https://github-readme-stats.vercel.app/api?username=JpgomesG&show_icons=true&theme=radical&locale=pt-br)
+![Estatísticas do GitHub de CaioOham](https://github-readme-stats.vercel.app/api?username=JpgomesG&show_icons=true&theme=radical&locale=pt-br)
 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpgomesG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
