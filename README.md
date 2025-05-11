@@ -57,7 +57,6 @@
 
 ![Estatísticas do GitHub de João Pedro](https://github-readme-stats.vercel.app/api?username=JpgomesG&show_icons=true&theme=radical&locale=pt-br)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JpgomesG&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
 
