@@ -57,6 +57,13 @@
 
 ![Estatísticas do GitHub de João Pedro](https://github-readme-stats.vercel.app/api?username=JpgomesG&show_icons=true&theme=radical&locale=pt-br)
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpgomesG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 
 ## 📫 Como me encontrar
 
